@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name":"freshdeskPopUp",
+    "version": "1.0",
+    "content_scripts":[
+
+        {
+            "matches": ["https://newaccount1633954803606.freshdesk.com/a/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
