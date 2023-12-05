@@ -5,7 +5,7 @@
     "content_scripts":[
 
         {
-            "matches": ["https://newaccount1633954803606.freshdesk.com/a/*"],
+            "matches": ["https://crp05ti.freshdesk.com/a/*"],
             "js": ["content.js"]
         }
     ]
